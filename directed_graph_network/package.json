@@ -1,0 +1,14 @@
+{
+  "name": "@xianwu/ordered-force-directed-graph-network-graph",
+  "main": "dbbb83722683436c@261.js",
+  "version": "261.0.0",
+  "homepage": "https://observablehq.com/@xianwu/ordered-force-directed-graph-network-graph",
+  "author": {
+    "name": "xianwu",
+    "url": "https://observablehq.com/@xianwu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
